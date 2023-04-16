@@ -1,0 +1,1994 @@
+** Drc report for C:\Users\macie\Desktop\Studia\KiCad_1\MRBx60\MRBx60\MRBx60.kicad_pcb **
+** Created on 2023-04-16 17:09:15 **
+
+** Found 0 DRC violations **
+
+** Found 496 unconnected pads **
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(270,5400 mm, 289,0700 mm): Pole lutownicze 6 [DC3_3_STM] z U11 na F.Cu
+    @(269,2400 mm, 289,0700 mm): Pole lutownicze 8 [DC3_3_STM] z U11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(66,6300 mm, 380,3050 mm): Pole lutownicze 3 [DC3_3_STM] z U8 na F.Cu
+    @(60,6300 mm, 379,0050 mm): Pole PTH 1 [DC3_3_STM] na C18
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(161,5200 mm, 310,2150 mm): Pole lutownicze 1 [DC3_3_STM] z C21 na F.Cu
+    @(160,9450 mm, 298,4000 mm): Pole PTH 1 [DC3_3_STM] na C20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(9,9375 mm, 386,2250 mm): Pole lutownicze 2 [DC3_3_STM] z D10 na F.Cu
+    @(60,6300 mm, 379,0050 mm): Pole PTH 1 [DC3_3_STM] na C18
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(269,2400 mm, 289,0700 mm): Pole lutownicze 8 [DC3_3_STM] z U11 na F.Cu
+    @(160,9450 mm, 298,4000 mm): Pole PTH 1 [DC3_3_STM] na C20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(66,6300 mm, 380,3050 mm): Pole lutownicze 3 [DC3_3_STM] z U8 na F.Cu
+    @(161,5200 mm, 310,2150 mm): Pole lutownicze 1 [DC3_3_STM] z C21 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(137,1600 mm, 259,0800 mm): Pole PTH 9 [PF_6] na J1
+    @(251,4600 mm, 217,1700 mm): Pole PTH 1 [PF_6] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(135,8900 mm, 259,0800 mm): Pole PTH 11 [PF_7] na J1
+    @(252,7300 mm, 217,1700 mm): Pole PTH 3 [PF_7] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(245,1100 mm, 228,6000 mm): Pole PTH 11 [PA_13] na J21
+    @(134,6200 mm, 259,0800 mm): Pole PTH 13 [PA_13] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(134,6200 mm, 259,0800 mm): Pole PTH 13 [PA_13] na J1
+    @(163,8400 mm, 380,9900 mm): Pole PTH 1 [PA_13] na U16
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(246,3800 mm, 228,6000 mm): Pole PTH 13 [PA_14] na J21
+    @(133,3500 mm, 259,0800 mm): Pole PTH 15 [PA_14] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(133,3500 mm, 259,0800 mm): Pole PTH 15 [PA_14] na J1
+    @(176,5400 mm, 380,9900 mm): Pole PTH 1 [PA_14] na U17
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(132,0800 mm, 259,0800 mm): Pole PTH 17 [PA_15] na J1
+    @(247,6500 mm, 228,6000 mm): Pole PTH 15 [PA_15] na J21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 350,8500 mm): Pole lutownicze 10 [GND] z U1 na F.Cu
+    @(44,1500 mm, 351,3500 mm): Pole lutownicze 11 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 300,4750 mm): Pole lutownicze 14 [GND] z IC2 na F.Cu
+    @(33,2870 mm, 299,9750 mm): Pole lutownicze 13 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 353,3500 mm): Pole lutownicze 15 [GND] z U1 na F.Cu
+    @(44,1500 mm, 352,3500 mm): Pole lutownicze 13 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 351,3500 mm): Pole lutownicze 11 [GND] z U1 na F.Cu
+    @(44,1500 mm, 352,3500 mm): Pole lutownicze 13 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 348,3500 mm): Pole lutownicze 5 [GND] z U1 na F.Cu
+    @(44,1500 mm, 346,3500 mm): Pole lutownicze 1 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(269,2400 mm, 287,0200 mm): Pole lutownicze 1 [GND] z U11 na F.Cu
+    @(269,8900 mm, 289,0700 mm): Pole lutownicze 7 [GND] z U11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 348,3500 mm): Pole lutownicze 5 [GND] z U1 na F.Cu
+    @(44,1500 mm, 350,8500 mm): Pole lutownicze 10 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(162,9450 mm, 307,5250 mm): Pole lutownicze 2 [GND] z C19 na F.Cu
+    @(162,9450 mm, 310,2150 mm): Pole lutownicze 2 [GND] z C21 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(71,1250 mm, 342,2000 mm): Pole lutownicze 2 [GND] z C10 na F.Cu
+    @(71,1250 mm, 344,8900 mm): Pole lutownicze 2 [GND] z C11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(71,1250 mm, 361,0300 mm): Pole lutownicze 2 [GND] z C17 na F.Cu
+    @(71,1250 mm, 358,3400 mm): Pole lutownicze 2 [GND] z C16 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(71,1250 mm, 350,2700 mm): Pole lutownicze 2 [GND] z C13 na F.Cu
+    @(71,1250 mm, 347,5800 mm): Pole lutownicze 2 [GND] z C12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(71,1250 mm, 344,8900 mm): Pole lutownicze 2 [GND] z C11 na F.Cu
+    @(71,1250 mm, 347,5800 mm): Pole lutownicze 2 [GND] z C12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(61,1250 mm, 362,4000 mm): Pole lutownicze 4 [GND] z Y1 na F.Cu
+    @(63,3250 mm, 364,0000 mm): Pole lutownicze 2 [GND] z Y1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(8,6400 mm, 277,1750 mm): Pole lutownicze 1 [GND] z R10 na F.Cu
+    @(5,7625 mm, 277,4750 mm): Pole PTH 2 [GND] na C3
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(66,6300 mm, 378,0050 mm): Pole lutownicze 2 [GND] z U8 na F.Cu
+    @(63,1300 mm, 379,0050 mm): Pole PTH 2 [GND] na C18
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(52,5750 mm, 344,4250 mm): Pole lutownicze 51 [GND] z U1 na F.Cu
+    @(55,5000 mm, 346,8500 mm): Pole lutownicze 47 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 299,9750 mm): Pole lutownicze 13 [GND] z IC2 na F.Cu
+    @(33,2870 mm, 295,9750 mm): Pole lutownicze 5 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(37,2750 mm, 291,9870 mm): Pole lutownicze 140 [GND] z IC2 na F.Cu
+    @(41,2750 mm, 291,9870 mm): Pole lutownicze 132 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(14,1700 mm, 381,0250 mm): Pole lutownicze 2 [GND] z R54 na F.Cu
+    @(14,1700 mm, 376,8950 mm): Pole lutownicze 2 [GND] z R53 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(6,5174 mm, 355,0450 mm): Pole PTH 2 [GND] na C5
+    @(10,9900 mm, 354,4450 mm): Pole lutownicze 2 [GND] z U6 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(46,2750 mm, 313,4630 mm): Pole lutownicze 59 [GND] z IC2 na F.Cu
+    @(51,2750 mm, 313,4630 mm): Pole lutownicze 69 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(37,2750 mm, 291,9870 mm): Pole lutownicze 140 [GND] z IC2 na F.Cu
+    @(33,2870 mm, 295,9750 mm): Pole lutownicze 5 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(55,5000 mm, 352,8500 mm): Pole lutownicze 35 [GND] z U1 na F.Cu
+    @(55,5000 mm, 346,8500 mm): Pole lutownicze 47 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(38,1000 mm, 345,4400 mm): Pole lutownicze 1 [GND] z R6 na F.Cu
+    @(44,1500 mm, 346,3500 mm): Pole lutownicze 1 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(55,5000 mm, 352,8500 mm): Pole lutownicze 35 [GND] z U1 na F.Cu
+    @(50,0750 mm, 355,7750 mm): Pole lutownicze 25 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(61,0375 mm, 356,2000 mm): Pole lutownicze 2 [GND] z C9 na F.Cu
+    @(61,1250 mm, 362,4000 mm): Pole lutownicze 4 [GND] z Y1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(50,0750 mm, 355,7750 mm): Pole lutownicze 25 [GND] z U1 na F.Cu
+    @(44,1500 mm, 353,3500 mm): Pole lutownicze 15 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(61,0375 mm, 356,2000 mm): Pole lutownicze 2 [GND] z C9 na F.Cu
+    @(55,5000 mm, 352,8500 mm): Pole lutownicze 35 [GND] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(166,0950 mm, 291,9550 mm): Pole lutownicze 5 [GND] z U10 na F.Cu
+    @(163,4450 mm, 298,4000 mm): Pole PTH 2 [GND] na C20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(158,7950 mm, 285,0050 mm): Pole lutownicze 4 [GND] z U9 na F.Cu
+    @(166,0950 mm, 282,4650 mm): Pole lutownicze 7 [GND] z U9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(267,6125 mm, 220,9800 mm): Pole lutownicze 2 [GND] z R30 na F.Cu
+    @(262,8900 mm, 227,3300 mm): Pole PTH 16 [GND] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(71,1250 mm, 358,3400 mm): Pole lutownicze 2 [GND] z C16 na F.Cu
+    @(71,1250 mm, 350,2700 mm): Pole lutownicze 2 [GND] z C13 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(71,1250 mm, 361,0300 mm): Pole lutownicze 2 [GND] z C17 na F.Cu
+    @(63,3250 mm, 364,0000 mm): Pole lutownicze 2 [GND] z Y1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 304,9750 mm): Pole lutownicze 86 [GND] z IC2 na F.Cu
+    @(54,7630 mm, 296,4750 mm): Pole lutownicze 103 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(50,8000 mm, 217,1700 mm): Pole PTH 32 [GND] na J28
+    @(59,1500 mm, 214,8250 mm): Pole lutownicze 3 [GND] z RV4 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(163,4450 mm, 298,4000 mm): Pole PTH 2 [GND] na C20
+    @(162,9450 mm, 307,5250 mm): Pole lutownicze 2 [GND] z C19 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 304,9750 mm): Pole lutownicze 86 [GND] z IC2 na F.Cu
+    @(51,2750 mm, 313,4630 mm): Pole lutownicze 69 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(166,0950 mm, 291,9550 mm): Pole lutownicze 5 [GND] z U10 na F.Cu
+    @(166,0950 mm, 282,4650 mm): Pole lutownicze 7 [GND] z U9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(267,6125 mm, 238,8500 mm): Pole lutownicze 2 [GND] z R31 na F.Cu
+    @(262,8900 mm, 227,3300 mm): Pole PTH 16 [GND] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(174,5450 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R19 na F.Cu
+    @(187,9600 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R18 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(92,9500 mm, 406,6300 mm): Pole PTH 13 [GND] na J27
+    @(89,2900 mm, 393,7000 mm): Pole lutownicze 3 [GND] z U36 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(4,8675 mm, 307,0250 mm): Pole lutownicze 2 [GND] z R55 na F.Cu
+    @(5,8500 mm, 320,6000 mm): Pole PTH 7 [GND] na J4
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(14,1700 mm, 376,8950 mm): Pole lutownicze 2 [GND] z R53 na F.Cu
+    @(6,9900 mm, 365,1200 mm): Pole PTH 2 [GND] na C5
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(41,2750 mm, 291,9870 mm): Pole lutownicze 132 [GND] z IC2 na F.Cu
+    @(54,7630 mm, 296,4750 mm): Pole lutownicze 103 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(63,3250 mm, 364,0000 mm): Pole lutownicze 2 [GND] z Y1 na F.Cu
+    @(66,6300 mm, 378,0050 mm): Pole lutownicze 2 [GND] z U8 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(187,9600 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R18 na F.Cu
+    @(183,0400 mm, 225,2300 mm): Pole PTH 3 [GND] na SW10
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(76,2300 mm, 225,2300 mm): Pole PTH 3 [GND] na SW17
+    @(81,2800 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R25 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(269,2400 mm, 287,0200 mm): Pole lutownicze 1 [GND] z U11 na F.Cu
+    @(267,6125 mm, 272,0500 mm): Pole lutownicze 2 [GND] z R33 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(128,8250 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R22 na F.Cu
+    @(122,0800 mm, 225,2300 mm): Pole PTH 3 [GND] na SW14
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(144,0650 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R21 na F.Cu
+    @(137,3200 mm, 225,2300 mm): Pole PTH 3 [GND] na SW13
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(113,5850 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R23 na F.Cu
+    @(106,8400 mm, 225,2300 mm): Pole PTH 3 [GND] na SW15
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(98,3450 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R24 na F.Cu
+    @(91,6000 mm, 225,2300 mm): Pole PTH 3 [GND] na SW16
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(152,5175 mm, 225,2300 mm): Pole PTH 3 [GND] na SW12
+    @(159,3050 mm, 238,7600 mm): Pole lutownicze 2 [GND] z R20 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(267,6125 mm, 272,0500 mm): Pole lutownicze 2 [GND] z R33 na F.Cu
+    @(267,6125 mm, 256,7200 mm): Pole lutownicze 2 [GND] z R32 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(71,1250 mm, 342,2000 mm): Pole lutownicze 2 [GND] z C10 na F.Cu
+    @(86,7500 mm, 342,9000 mm): Pole lutownicze 3 [GND] z U12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(267,6125 mm, 272,0500 mm): Pole lutownicze 2 [GND] z R33 na F.Cu
+    @(284,4800 mm, 267,7800 mm): Pole PTH 3 [GND] na SW0
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(5,8500 mm, 320,6000 mm): Pole PTH 7 [GND] na J4
+    @(22,4150 mm, 330,0500 mm): Pole lutownicze 5 [GND] z U7 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(6,0250 mm, 287,6250 mm): Pole PTH 4 [GND] na J6
+    @(33,2870 mm, 295,9750 mm): Pole lutownicze 5 [GND] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(129,5400 mm, 259,0800 mm): Pole PTH 21 [PB_7] na J1
+    @(284,4800 mm, 220,9800 mm): Pole PTH 2 [PB_7] na SW3
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(184,5250 mm, 233,6800 mm): Pole lutownicze 1 [Net-(D1-K)] z D1 na F.Cu
+    @(186,1350 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D1-K)] z R18 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(169,7325 mm, 233,6800 mm): Pole lutownicze 1 [Net-(D2-K)] z D2 na F.Cu
+    @(172,7200 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D2-K)] z R19 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(154,0450 mm, 233,6800 mm): Pole lutownicze 1 [Net-(D3-K)] z D3 na F.Cu
+    @(157,4800 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D3-K)] z R20 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(138,8050 mm, 233,6800 mm): Pole lutownicze 1 [Net-(D4-K)] z D4 na F.Cu
+    @(142,2400 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D4-K)] z R21 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(124,0125 mm, 233,6800 mm): Pole lutownicze 1 [Net-(D5-K)] z D5 na F.Cu
+    @(127,0000 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D5-K)] z R22 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(108,7725 mm, 233,6800 mm): Pole lutownicze 1 [Net-(D6-K)] z D6 na F.Cu
+    @(111,7600 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D6-K)] z R23 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(118,1100 mm, 259,0800 mm): Pole PTH 39 [PD_4] na J1
+    @(176,5400 mm, 372,1050 mm): Pole PTH 1 [PD_4] na U35
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(256,5400 mm, 228,6000 mm): Pole PTH 5 [PD_4] na J23
+    @(118,1100 mm, 259,0800 mm): Pole PTH 39 [PD_4] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(116,8400 mm, 259,0800 mm): Pole PTH 41 [PD_5] na J1
+    @(113,0400 mm, 372,1050 mm): Pole PTH 1 [PD_5] na U30
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(257,8100 mm, 228,6000 mm): Pole PTH 7 [PD_5] na J23
+    @(116,8400 mm, 259,0800 mm): Pole PTH 41 [PD_5] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(115,5700 mm, 259,0800 mm): Pole PTH 43 [PD_6] na J1
+    @(138,4400 mm, 372,1050 mm): Pole PTH 1 [PD_6] na U32
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(259,0800 mm, 228,6000 mm): Pole PTH 9 [PD_6] na J23
+    @(115,5700 mm, 259,0800 mm): Pole PTH 43 [PD_6] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(114,3000 mm, 259,0800 mm): Pole PTH 45 [PD_7] na J1
+    @(163,8400 mm, 372,1050 mm): Pole PTH 1 [PD_7] na U34
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(260,3500 mm, 228,6000 mm): Pole PTH 11 [PD_7] na J23
+    @(114,3000 mm, 259,0800 mm): Pole PTH 45 [PD_7] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(49,2900 mm, 275,5950 mm): Pole PTH 8 [PE_3] na J13
+    @(113,0300 mm, 259,0800 mm): Pole PTH 47 [PE_3] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(113,0300 mm, 259,0800 mm): Pole PTH 47 [PE_3] na J1
+    @(237,4900 mm, 217,1700 mm): Pole PTH 7 [PE_3] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(293,9250 mm, 290,2700 mm): Pole PTH 2 [PD_1] na SW5
+    @(293,9250 mm, 283,7700 mm): Pole PTH 2 [PD_1] na SW5
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(280,4200 mm, 292,1000 mm): Pole lutownicze 2 [PD_1] z R15 na F.Cu
+    @(293,9250 mm, 290,2700 mm): Pole PTH 2 [PD_1] na SW5
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(280,4200 mm, 292,1000 mm): Pole lutownicze 2 [PD_1] z R15 na F.Cu
+    @(293,3700 mm, 353,0600 mm): Pole PTH 11 [PD_1] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(107,9500 mm, 259,0800 mm): Pole PTH 55 [PD_1] na J1
+    @(280,4200 mm, 292,1000 mm): Pole lutownicze 2 [PD_1] z R15 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(293,9250 mm, 305,5100 mm): Pole PTH 2 [PD_0] na SW4
+    @(293,9250 mm, 299,0100 mm): Pole PTH 2 [PD_0] na SW4
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(293,9250 mm, 299,0100 mm): Pole PTH 2 [PD_0] na SW4
+    @(280,4200 mm, 297,1800 mm): Pole lutownicze 2 [PD_0] z R14 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(293,3700 mm, 351,7900 mm): Pole PTH 12 [PD_0] na J24
+    @(293,9250 mm, 305,5100 mm): Pole PTH 2 [PD_0] na SW4
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(106,6800 mm, 259,0800 mm): Pole PTH 57 [PD_0] na J1
+    @(280,4200 mm, 297,1800 mm): Pole lutownicze 2 [PD_0] z R14 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(51,8300 mm, 275,5950 mm): Pole PTH 4 [PE_1] na J13
+    @(104,1400 mm, 259,0800 mm): Pole PTH 61 [PE_1] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(104,1400 mm, 259,0800 mm): Pole PTH 61 [PE_1] na J1
+    @(234,9500 mm, 217,1700 mm): Pole PTH 3 [PE_1] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(93,5325 mm, 233,6800 mm): Pole lutownicze 1 [Net-(D7-K)] z D7 na F.Cu
+    @(96,5200 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D7-K)] z R24 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(101,6000 mm, 259,0800 mm): Pole PTH 65 [PG_12] na J1
+    @(261,6200 mm, 228,6000 mm): Pole PTH 13 [PG_12] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(100,3300 mm, 259,0800 mm): Pole PTH 67 [NC1] na J1
+    @(127,0000 mm, 260,3500 mm): Pole PTH 26 [NC1] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(77,8450 mm, 233,4100 mm): Pole lutownicze 1 [Net-(D8-K)] z D8 na F.Cu
+    @(79,4550 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D8-K)] z R25 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(265,7875 mm, 220,9800 mm): Pole lutownicze 1 [Net-(D13-K)] z R30 na F.Cu
+    @(271,3325 mm, 220,9800 mm): Pole lutownicze 1 [Net-(D13-K)] z D13 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(140,9700 mm, 260,3500 mm): Pole PTH 4 [PD_2] na J1
+    @(125,7400 mm, 372,1050 mm): Pole PTH 1 [PD_2] na U31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(254,0000 mm, 228,6000 mm): Pole PTH 1 [PD_2] na J23
+    @(140,9700 mm, 260,3500 mm): Pole PTH 4 [PD_2] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(223,5200 mm, 227,3300 mm): Pole PTH 2 [V3_3] na J22
+    @(224,7900 mm, 227,3300 mm): Pole PTH 4 [V3_3] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(256,5400 mm, 227,3300 mm): Pole PTH 6 [V3_3] na J23
+    @(257,8100 mm, 227,3300 mm): Pole PTH 8 [V3_3] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(254,0000 mm, 227,3300 mm): Pole PTH 2 [V3_3] na J23
+    @(255,2700 mm, 227,3300 mm): Pole PTH 4 [V3_3] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(224,7900 mm, 227,3300 mm): Pole PTH 4 [V3_3] na J22
+    @(226,0600 mm, 227,3300 mm): Pole PTH 6 [V3_3] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(241,3000 mm, 227,3300 mm): Pole PTH 6 [V3_3] na J21
+    @(242,5700 mm, 227,3300 mm): Pole PTH 8 [V3_3] na J21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(226,0600 mm, 227,3300 mm): Pole PTH 6 [V3_3] na J22
+    @(227,3300 mm, 227,3300 mm): Pole PTH 8 [V3_3] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(240,0300 mm, 227,3300 mm): Pole PTH 4 [V3_3] na J21
+    @(241,3000 mm, 227,3300 mm): Pole PTH 6 [V3_3] na J21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(252,7300 mm, 215,9000 mm): Pole PTH 4 [V3_3] na J25
+    @(251,4600 mm, 215,9000 mm): Pole PTH 2 [V3_3] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(238,7600 mm, 227,3300 mm): Pole PTH 2 [V3_3] na J21
+    @(240,0300 mm, 227,3300 mm): Pole PTH 4 [V3_3] na J21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(254,0000 mm, 215,9000 mm): Pole PTH 6 [V3_3] na J25
+    @(252,7300 mm, 215,9000 mm): Pole PTH 4 [V3_3] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(255,2700 mm, 227,3300 mm): Pole PTH 4 [V3_3] na J23
+    @(256,5400 mm, 227,3300 mm): Pole PTH 6 [V3_3] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(255,2700 mm, 215,9000 mm): Pole PTH 8 [V3_3] na J25
+    @(254,0000 mm, 215,9000 mm): Pole PTH 6 [V3_3] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(292,1000 mm, 353,0600 mm): Pole PTH 9 [V3_3] na J24
+    @(295,9100 mm, 353,0600 mm): Pole PTH 15 [V3_3] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(279,4000 mm, 297,1800 mm): Pole lutownicze 1 [V3_3] z R14 na F.Cu
+    @(279,4000 mm, 292,1000 mm): Pole lutownicze 1 [V3_3] z R15 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,0200 mm, 353,0600 mm): Pole PTH 1 [V3_3] na J24
+    @(292,1000 mm, 353,0600 mm): Pole PTH 9 [V3_3] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,7750 mm, 339,1100 mm): Pole lutownicze 1 [V3_3] z RV1 na F.Cu
+    @(287,7750 mm, 328,9500 mm): Pole lutownicze 1 [V3_3] z RV2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(254,0000 mm, 215,9000 mm): Pole PTH 6 [V3_3] na J25
+    @(254,0000 mm, 227,3300 mm): Pole PTH 2 [V3_3] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(254,0000 mm, 227,3300 mm): Pole PTH 2 [V3_3] na J23
+    @(242,5700 mm, 227,3300 mm): Pole PTH 8 [V3_3] na J21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(238,7600 mm, 227,3300 mm): Pole PTH 2 [V3_3] na J21
+    @(227,3300 mm, 227,3300 mm): Pole PTH 8 [V3_3] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,7750 mm, 328,9500 mm): Pole lutownicze 1 [V3_3] z RV2 na F.Cu
+    @(287,7750 mm, 317,1100 mm): Pole lutownicze 1 [V3_3] z RV3 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,7750 mm, 339,1100 mm): Pole lutownicze 1 [V3_3] z RV1 na F.Cu
+    @(287,0200 mm, 353,0600 mm): Pole PTH 1 [V3_3] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(284,4800 mm, 259,4600 mm): Pole PTH 1 [V3_3] na SW1
+    @(284,4800 mm, 275,7800 mm): Pole PTH 1 [V3_3] na SW0
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(284,2275 mm, 242,7175 mm): Pole PTH 1 [V3_3] na SW2
+    @(284,4800 mm, 259,4600 mm): Pole PTH 1 [V3_3] na SW1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(279,4000 mm, 292,1000 mm): Pole lutownicze 1 [V3_3] z R15 na F.Cu
+    @(284,4800 mm, 275,7800 mm): Pole PTH 1 [V3_3] na SW0
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(284,4800 mm, 224,9800 mm): Pole PTH 1 [V3_3] na SW3
+    @(284,2275 mm, 242,7175 mm): Pole PTH 1 [V3_3] na SW2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,7750 mm, 317,1100 mm): Pole lutownicze 1 [V3_3] z RV3 na F.Cu
+    @(279,4000 mm, 297,1800 mm): Pole lutownicze 1 [V3_3] z R14 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(284,4800 mm, 224,9800 mm): Pole PTH 1 [V3_3] na SW3
+    @(257,8100 mm, 227,3300 mm): Pole PTH 8 [V3_3] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(223,5200 mm, 227,3300 mm): Pole PTH 2 [V3_3] na J22
+    @(133,3500 mm, 260,3500 mm): Pole PTH 16 [V3_3] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(265,7875 mm, 238,8500 mm): Pole lutownicze 1 [Net-(D14-K)] z R31 na F.Cu
+    @(271,3325 mm, 238,7600 mm): Pole lutownicze 1 [Net-(D14-K)] z D14 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(265,7875 mm, 256,7200 mm): Pole lutownicze 1 [Net-(D15-K)] z R32 na F.Cu
+    @(271,3325 mm, 256,5400 mm): Pole lutownicze 1 [Net-(D15-K)] z D15 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(238,7600 mm, 228,6000 mm): Pole PTH 1 [PA_4] na J21
+    @(123,1900 mm, 260,3500 mm): Pole PTH 32 [PA_4] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(123,1900 mm, 260,3500 mm): Pole PTH 32 [PA_4] na J1
+    @(113,0400 mm, 380,9900 mm): Pole PTH 1 [PA_4] na U2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(277,3075 mm, 220,9800 mm): Pole lutownicze 2 [PB_0] z D13 na F.Cu
+    @(223,5200 mm, 228,6000 mm): Pole PTH 1 [PB_0] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(223,5200 mm, 228,6000 mm): Pole PTH 1 [PB_0] na J22
+    @(121,9200 mm, 260,3500 mm): Pole PTH 34 [PB_0] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(265,7875 mm, 272,0500 mm): Pole lutownicze 1 [Net-(D16-K)] z R33 na F.Cu
+    @(271,3325 mm, 271,7800 mm): Pole lutownicze 1 [Net-(D16-K)] z D16 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(118,1100 mm, 260,3500 mm): Pole PTH 40 [PD_3] na J1
+    @(151,1400 mm, 372,1050 mm): Pole PTH 1 [PD_3] na U33
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(255,2700 mm, 228,6000 mm): Pole PTH 3 [PD_3] na J23
+    @(118,1100 mm, 260,3500 mm): Pole PTH 40 [PD_3] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(50,5600 mm, 275,5950 mm): Pole PTH 6 [PE_2] na J13
+    @(114,3000 mm, 260,3500 mm): Pole PTH 46 [PE_2] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(114,3000 mm, 260,3500 mm): Pole PTH 46 [PE_2] na J1
+    @(236,2200 mm, 217,1700 mm): Pole PTH 5 [PE_2] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(48,0200 mm, 275,5950 mm): Pole PTH 10 [PE_4] na J13
+    @(113,0300 mm, 260,3500 mm): Pole PTH 48 [PE_4] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(113,0300 mm, 260,3500 mm): Pole PTH 48 [PE_4] na J1
+    @(238,7600 mm, 217,1700 mm): Pole PTH 9 [PE_4] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(46,7500 mm, 275,5950 mm): Pole PTH 12 [PE_5] na J13
+    @(111,7600 mm, 260,3500 mm): Pole PTH 50 [PE_5] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(111,7600 mm, 260,3500 mm): Pole PTH 50 [PE_5] na J1
+    @(240,0300 mm, 217,1700 mm): Pole PTH 11 [PE_5] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(57,6000 mm, 405,8700 mm): Pole PTH 2 [Net-(J5-Pin_2)] na J5
+    @(61,7500 mm, 405,8700 mm): Pole PTH 2 [Net-(J5-Pin_2)] na J7
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(10,9900 mm, 352,1450 mm): Pole lutownicze 1 [Net-(J5-Pin_2)] z U6 na F.Cu
+    @(57,6000 mm, 405,8700 mm): Pole PTH 2 [Net-(J5-Pin_2)] na J5
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(45,4800 mm, 275,5950 mm): Pole PTH 14 [PE_6] na J13
+    @(104,1400 mm, 260,3500 mm): Pole PTH 62 [PE_6] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(104,1400 mm, 260,3500 mm): Pole PTH 62 [PE_6] na J1
+    @(241,3000 mm, 217,1700 mm): Pole PTH 13 [PE_6] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(100,3300 mm, 260,3500 mm): Pole PTH 68 [PG_13] na J1
+    @(262,8900 mm, 228,6000 mm): Pole PTH 15 [PG_13] na J23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(158,7950 mm, 290,6850 mm): Pole lutownicze 3 [PB15] z U10 na F.Cu
+    @(132,9050 mm, 348,5300 mm): Pole PTH 3 [PB15] na J12
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(132,9050 mm, 348,5300 mm): Pole PTH 3 [PB15] na J12
+    @(198,1200 mm, 351,7900 mm): Pole PTH 3 [PB15] na J9
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 311,4750 mm): Pole lutownicze 73 [IOR_48] z IC2 na F.Cu
+    @(137,1300 mm, 322,5500 mm): Pole PTH 10 [IOR_48] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 310,9750 mm): Pole lutownicze 74 [IOR_49] z IC2 na F.Cu
+    @(99,0600 mm, 259,0800 mm): Pole PTH 69 [IOR_49] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 310,4750 mm): Pole lutownicze 75 [IOR_50] z IC2 na F.Cu
+    @(101,5700 mm, 321,2800 mm): Pole PTH 65 [IOR_50] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 309,9750 mm): Pole lutownicze 76 [IOR_51] z IC2 na F.Cu
+    @(114,2700 mm, 321,2800 mm): Pole PTH 45 [IOR_51] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(9,5000 mm, 401,2000 mm): Pole PTH 2 [Net-(J3-Pin_2)] na J3
+    @(16,2000 mm, 404,3000 mm): Pole PTH 1 [Net-(J3-Pin_2)] na C1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(16,2000 mm, 404,3000 mm): Pole PTH 1 [Net-(J3-Pin_2)] na C1
+    @(24,3600 mm, 406,0000 mm): Pole PTH 1 [Net-(J3-Pin_2)] na U5
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 308,9750 mm): Pole lutownicze 78 [IOR_52] z IC2 na F.Cu
+    @(115,5400 mm, 321,2800 mm): Pole PTH 43 [IOR_52] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 308,4750 mm): Pole lutownicze 79 [IOR_53] z IC2 na F.Cu
+    @(116,8100 mm, 321,2800 mm): Pole PTH 41 [IOR_53] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 307,9750 mm): Pole lutownicze 80 [IOR_54] z IC2 na F.Cu
+    @(114,2700 mm, 322,5500 mm): Pole PTH 46 [IOR_54] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 307,4750 mm): Pole lutownicze 81 [IOR_55] z IC2 na F.Cu
+    @(113,0000 mm, 322,5500 mm): Pole PTH 48 [IOR_55] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(24,2600 mm, 395,4450 mm): Pole PTH 1 [DC24] na U3
+    @(22,6500 mm, 399,8000 mm): Pole PTH 1 [DC24] na C6
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(16,2774 mm, 395,0000 mm): Pole PTH 1 [DC24] na C2
+    @(22,6500 mm, 399,8000 mm): Pole PTH 1 [DC24] na C6
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(22,6500 mm, 399,8000 mm): Pole PTH 1 [DC24] na C6
+    @(29,4400 mm, 406,0000 mm): Pole PTH 3 [DC24] na U5
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(29,4400 mm, 406,0000 mm): Pole PTH 3 [DC24] na U5
+    @(284,4800 mm, 392,4300 mm): Pole PTH 2 [DC24] na J14
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(29,3400 mm, 395,4450 mm): Pole PTH 3 [DC12] na U3
+    @(34,3000 mm, 399,6000 mm): Pole PTH 1 [DC12] na C7
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(34,3000 mm, 399,6000 mm): Pole PTH 1 [DC12] na C7
+    @(37,0600 mm, 406,0450 mm): Pole PTH 1 [DC12] na U4
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(43,1000 mm, 398,4000 mm): Pole PTH 1 [DC12] na C8
+    @(34,3000 mm, 399,6000 mm): Pole PTH 1 [DC12] na C7
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(288,6300 mm, 392,4300 mm): Pole PTH 2 [DC12] na J15
+    @(43,1000 mm, 398,4000 mm): Pole PTH 1 [DC12] na C8
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(168,6650 mm, 292,9100 mm): Pole lutownicze 1 [DC5] z R12 na F.Cu
+    @(168,6650 mm, 290,9200 mm): Pole lutownicze 1 [DC5] z R11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(168,6650 mm, 290,9200 mm): Pole lutownicze 1 [DC5] z R11 na F.Cu
+    @(166,0950 mm, 288,1450 mm): Pole lutownicze 8 [DC5] z U10 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(166,0950 mm, 281,1950 mm): Pole lutownicze 8 [DC5] z U9 na F.Cu
+    @(166,0950 mm, 288,1450 mm): Pole lutownicze 8 [DC5] z U10 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(48,7774 mm, 398,2000 mm): Pole PTH 1 [DC5] na C4
+    @(42,1400 mm, 406,0450 mm): Pole PTH 3 [DC5] na U4
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(48,7774 mm, 398,2000 mm): Pole PTH 1 [DC5] na C4
+    @(57,6000 mm, 404,6000 mm): Pole PTH 1 [DC5] na J5
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(28,3500 mm, 399,7000 mm): Pole PTH 1 [DC5] na C8
+    @(42,1400 mm, 406,0450 mm): Pole PTH 3 [DC5] na U4
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(198,1200 mm, 349,2500 mm): Pole PTH 1 [DC5] na J9
+    @(198,1200 mm, 334,0100 mm): Pole PTH 3 [DC5] na J8
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(161,5200 mm, 307,5250 mm): Pole lutownicze 1 [DC5] z C19 na F.Cu
+    @(168,6650 mm, 292,9100 mm): Pole lutownicze 1 [DC5] z R12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(66,6300 mm, 375,7050 mm): Pole lutownicze 1 [DC5] z U8 na F.Cu
+    @(48,7774 mm, 398,2000 mm): Pole PTH 1 [DC5] na C4
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(161,5200 mm, 307,5250 mm): Pole lutownicze 1 [DC5] z C19 na F.Cu
+    @(198,1200 mm, 334,0100 mm): Pole PTH 3 [DC5] na J8
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(161,5200 mm, 307,5250 mm): Pole lutownicze 1 [DC5] z C19 na F.Cu
+    @(66,6300 mm, 375,7050 mm): Pole lutownicze 1 [DC5] z U8 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(10,1600 mm, 217,1700 mm): Pole PTH 10 [DC3_3] na J31
+    @(8,8900 mm, 217,1700 mm): Pole PTH 8 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(6,3500 mm, 217,1700 mm): Pole PTH 4 [DC3_3] na J31
+    @(5,0800 mm, 217,1700 mm): Pole PTH 2 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(13,9700 mm, 217,1700 mm): Pole PTH 16 [DC3_3] na J31
+    @(12,7000 mm, 217,1700 mm): Pole PTH 14 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(12,7000 mm, 228,6000 mm): Pole PTH 14 [DC3_3] na J29
+    @(13,9700 mm, 228,6000 mm): Pole PTH 16 [DC3_3] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(34,2900 mm, 217,1700 mm): Pole PTH 6 [DC3_3] na J28
+    @(33,0200 mm, 217,1700 mm): Pole PTH 4 [DC3_3] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(6,3500 mm, 228,6000 mm): Pole PTH 4 [DC3_3] na J29
+    @(7,6200 mm, 228,6000 mm): Pole PTH 6 [DC3_3] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(7,6200 mm, 217,1700 mm): Pole PTH 6 [DC3_3] na J31
+    @(6,3500 mm, 217,1700 mm): Pole PTH 4 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(8,8900 mm, 228,6000 mm): Pole PTH 8 [DC3_3] na J29
+    @(10,1600 mm, 228,6000 mm): Pole PTH 10 [DC3_3] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(8,8900 mm, 228,6000 mm): Pole PTH 8 [DC3_3] na J29
+    @(7,6200 mm, 228,6000 mm): Pole PTH 6 [DC3_3] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(91,6800 mm, 406,6300 mm): Pole PTH 15 [DC3_3] na J27
+    @(91,6800 mm, 407,9000 mm): Pole PTH 16 [DC3_3] na J27
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,0200 mm, 217,1700 mm): Pole PTH 4 [DC3_3] na J28
+    @(31,7500 mm, 217,1700 mm): Pole PTH 2 [DC3_3] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(8,8900 mm, 217,1700 mm): Pole PTH 8 [DC3_3] na J31
+    @(7,6200 mm, 217,1700 mm): Pole PTH 6 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(6,3500 mm, 228,6000 mm): Pole PTH 4 [DC3_3] na J29
+    @(5,0800 mm, 228,6000 mm): Pole PTH 2 [DC3_3] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(11,4300 mm, 217,1700 mm): Pole PTH 12 [DC3_3] na J31
+    @(10,1600 mm, 217,1700 mm): Pole PTH 10 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(38,1000 mm, 217,1700 mm): Pole PTH 12 [DC3_3] na J28
+    @(36,8300 mm, 217,1700 mm): Pole PTH 10 [DC3_3] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,3700 mm, 217,1700 mm): Pole PTH 14 [DC3_3] na J28
+    @(38,1000 mm, 217,1700 mm): Pole PTH 12 [DC3_3] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(36,8300 mm, 217,1700 mm): Pole PTH 10 [DC3_3] na J28
+    @(35,5600 mm, 217,1700 mm): Pole PTH 8 [DC3_3] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(11,4300 mm, 228,6000 mm): Pole PTH 12 [DC3_3] na J29
+    @(10,1600 mm, 228,6000 mm): Pole PTH 10 [DC3_3] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(12,7000 mm, 217,1700 mm): Pole PTH 14 [DC3_3] na J31
+    @(11,4300 mm, 217,1700 mm): Pole PTH 12 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(35,5600 mm, 217,1700 mm): Pole PTH 8 [DC3_3] na J28
+    @(34,2900 mm, 217,1700 mm): Pole PTH 6 [DC3_3] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(40,6400 mm, 217,1700 mm): Pole PTH 16 [DC3_3] na J28
+    @(39,3700 mm, 217,1700 mm): Pole PTH 14 [DC3_3] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(12,7000 mm, 228,6000 mm): Pole PTH 14 [DC3_3] na J29
+    @(11,4300 mm, 228,6000 mm): Pole PTH 12 [DC3_3] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(213,3600 mm, 230,5900 mm): Pole lutownicze 1 [DC3_3] z R17 na F.Cu
+    @(213,3600 mm, 228,6000 mm): Pole lutownicze 1 [DC3_3] z R16 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(22,4150 mm, 328,7800 mm): Pole lutownicze 6 [DC3_3] z U7 na F.Cu
+    @(22,4150 mm, 326,2400 mm): Pole lutownicze 8 [DC3_3] z U7 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(50,0750 mm, 344,4250 mm): Pole lutownicze 56 [DC3_3] z U1 na F.Cu
+    @(53,0750 mm, 344,4250 mm): Pole lutownicze 50 [DC3_3] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(35,5625 mm, 338,7500 mm): Pole lutownicze 1 [DC3_3] z L2 na F.Cu
+    @(35,5625 mm, 335,0000 mm): Pole lutownicze 1 [DC3_3] z L1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,1200 mm, 353,0600 mm): Pole lutownicze 2 [DC3_3] z R8 na F.Cu
+    @(39,1200 mm, 348,6900 mm): Pole lutownicze 2 [DC3_3] z R7 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(40,7750 mm, 291,9870 mm): Pole lutownicze 133 [DC3_3] z IC2 na F.Cu
+    @(45,7750 mm, 291,9870 mm): Pole lutownicze 123 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,1200 mm, 358,1400 mm): Pole lutownicze 2 [DC3_3] z R9 na F.Cu
+    @(39,1200 mm, 353,0600 mm): Pole lutownicze 2 [DC3_3] z R8 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(55,5000 mm, 349,3500 mm): Pole lutownicze 42 [DC3_3] z U1 na F.Cu
+    @(53,0750 mm, 344,4250 mm): Pole lutownicze 50 [DC3_3] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,7750 mm, 313,4630 mm): Pole lutownicze 46 [DC3_3] z IC2 na F.Cu
+    @(45,2750 mm, 313,4630 mm): Pole lutownicze 57 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(53,0750 mm, 355,7750 mm): Pole lutownicze 31 [DC3_3] z U1 na F.Cu
+    @(47,5750 mm, 355,7750 mm): Pole lutownicze 20 [DC3_3] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(54,7630 mm, 297,9750 mm): Pole lutownicze 100 [DC3_3] z IC2 na F.Cu
+    @(54,7630 mm, 303,4750 mm): Pole lutownicze 89 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(5,0174 mm, 355,0450 mm): Pole PTH 1 [DC3_3] na C5
+    @(10,9900 mm, 356,7450 mm): Pole lutownicze 3 [DC3_3] z U6 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(53,0750 mm, 355,7750 mm): Pole lutownicze 31 [DC3_3] z U1 na F.Cu
+    @(59,6125 mm, 356,2000 mm): Pole lutownicze 1 [DC3_3] z C9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(53,0750 mm, 355,7750 mm): Pole lutownicze 31 [DC3_3] z U1 na F.Cu
+    @(55,5000 mm, 349,3500 mm): Pole lutownicze 42 [DC3_3] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(45,2750 mm, 313,4630 mm): Pole lutownicze 57 [DC3_3] z IC2 na F.Cu
+    @(52,7750 mm, 313,4630 mm): Pole lutownicze 72 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 308,4750 mm): Pole lutownicze 30 [DC3_3] z IC2 na F.Cu
+    @(39,7750 mm, 313,4630 mm): Pole lutownicze 46 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 296,4750 mm): Pole lutownicze 6 [DC3_3] z IC2 na F.Cu
+    @(40,7750 mm, 291,9870 mm): Pole lutownicze 133 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(47,5750 mm, 355,7750 mm): Pole lutownicze 20 [DC3_3] z U1 na F.Cu
+    @(39,1200 mm, 358,1400 mm): Pole lutownicze 2 [DC3_3] z R9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(4,4900 mm, 365,1200 mm): Pole PTH 1 [DC3_3] na C5
+    @(5,0174 mm, 355,0450 mm): Pole PTH 1 [DC3_3] na C5
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(52,7750 mm, 313,4630 mm): Pole lutownicze 72 [DC3_3] z IC2 na F.Cu
+    @(54,7630 mm, 303,4750 mm): Pole lutownicze 89 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,1200 mm, 348,6900 mm): Pole lutownicze 2 [DC3_3] z R7 na F.Cu
+    @(35,5625 mm, 338,7500 mm): Pole lutownicze 1 [DC3_3] z L2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(45,7750 mm, 291,9870 mm): Pole lutownicze 123 [DC3_3] z IC2 na F.Cu
+    @(54,7630 mm, 297,9750 mm): Pole lutownicze 100 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(11,4300 mm, 228,6000 mm): Pole PTH 12 [DC3_3] na J29
+    @(11,4300 mm, 217,1700 mm): Pole PTH 12 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,1200 mm, 370,2900 mm): Pole lutownicze 2 [DC3_3] z R3 na F.Cu
+    @(39,1200 mm, 358,1400 mm): Pole lutownicze 2 [DC3_3] z R9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(91,6800 mm, 406,6300 mm): Pole PTH 15 [DC3_3] na J27
+    @(93,5900 mm, 393,7000 mm): Pole lutownicze 8 [DC3_3] z U36 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(4,4900 mm, 365,1200 mm): Pole PTH 1 [DC3_3] na C5
+    @(9,7375 mm, 378,3250 mm): Pole lutownicze 2 [DC3_3] z D9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(22,4150 mm, 328,7800 mm): Pole lutownicze 6 [DC3_3] z U7 na F.Cu
+    @(35,5625 mm, 335,0000 mm): Pole lutownicze 1 [DC3_3] z L1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(145,3200 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW13
+    @(160,5175 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW12
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(130,0800 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW14
+    @(114,8400 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW15
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(99,6000 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW16
+    @(114,8400 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW15
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(191,0400 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW10
+    @(175,8000 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW11
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(145,3200 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW13
+    @(130,0800 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW14
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(160,5175 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW12
+    @(175,8000 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW11
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(99,6000 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW16
+    @(84,2300 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW17
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(31,7500 mm, 217,1700 mm): Pole PTH 2 [DC3_3] na J28
+    @(13,9700 mm, 217,1700 mm): Pole PTH 16 [DC3_3] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(59,1500 mm, 219,1250 mm): Pole lutownicze 1 [DC3_3] z RV4 na F.Cu
+    @(40,6400 mm, 217,1700 mm): Pole PTH 16 [DC3_3] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(22,4150 mm, 326,2400 mm): Pole lutownicze 8 [DC3_3] z U7 na F.Cu
+    @(33,2870 mm, 308,4750 mm): Pole lutownicze 30 [DC3_3] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(5,8500 mm, 312,9800 mm): Pole PTH 1 [DC3_3] na J4
+    @(22,4150 mm, 326,2400 mm): Pole lutownicze 8 [DC3_3] z U7 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(213,3600 mm, 228,6000 mm): Pole lutownicze 1 [DC3_3] z R16 na F.Cu
+    @(191,0400 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW10
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(84,2300 mm, 225,2300 mm): Pole PTH 1 [DC3_3] na SW17
+    @(59,1500 mm, 219,1250 mm): Pole lutownicze 1 [DC3_3] z RV4 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(10,9900 mm, 356,7450 mm): Pole lutownicze 3 [DC3_3] z U6 na F.Cu
+    @(39,1200 mm, 358,1400 mm): Pole lutownicze 2 [DC3_3] z R9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(59,6125 mm, 356,2000 mm): Pole lutownicze 1 [DC3_3] z C9 na F.Cu
+    @(91,0500 mm, 342,9000 mm): Pole lutownicze 8 [DC3_3] z U12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(93,5900 mm, 393,7000 mm): Pole lutownicze 8 [DC3_3] z U36 na F.Cu
+    @(59,6125 mm, 356,2000 mm): Pole lutownicze 1 [DC3_3] z C9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(40,7750 mm, 291,9870 mm): Pole lutownicze 133 [DC3_3] z IC2 na F.Cu
+    @(13,9700 mm, 228,6000 mm): Pole PTH 16 [DC3_3] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(69,7000 mm, 344,8900 mm): Pole lutownicze 1 [Net-(U1-VPHY)] z C11 na F.Cu
+    @(69,7000 mm, 342,2000 mm): Pole lutownicze 1 [Net-(U1-VPHY)] z C10 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(37,8875 mm, 338,7500 mm): Pole lutownicze 2 [Net-(U1-VPHY)] z L2 na F.Cu
+    @(44,1500 mm, 347,8500 mm): Pole lutownicze 4 [Net-(U1-VPHY)] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 347,8500 mm): Pole lutownicze 4 [Net-(U1-VPHY)] z U1 na F.Cu
+    @(69,7000 mm, 344,8900 mm): Pole lutownicze 1 [Net-(U1-VPHY)] z C11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 350,3500 mm): Pole lutownicze 9 [VCC1_8FT] z U1 na F.Cu
+    @(44,1500 mm, 351,8500 mm): Pole lutownicze 12 [VCC1_8FT] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(69,7000 mm, 352,9600 mm): Pole lutownicze 1 [VCC1_8FT] z C14 na F.Cu
+    @(69,7000 mm, 350,2700 mm): Pole lutownicze 1 [VCC1_8FT] z C13 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(69,7000 mm, 350,2700 mm): Pole lutownicze 1 [VCC1_8FT] z C13 na F.Cu
+    @(69,7000 mm, 347,5800 mm): Pole lutownicze 1 [VCC1_8FT] z C12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(69,7000 mm, 355,6500 mm): Pole lutownicze 1 [VCC1_8FT] z C15 na F.Cu
+    @(69,7000 mm, 352,9600 mm): Pole lutownicze 1 [VCC1_8FT] z C14 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(46,0750 mm, 344,4250 mm): Pole lutownicze 64 [VCC1_8FT] z U1 na F.Cu
+    @(44,1500 mm, 350,3500 mm): Pole lutownicze 9 [VCC1_8FT] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(53,5750 mm, 344,4250 mm): Pole lutownicze 49 [VCC1_8FT] z U1 na F.Cu
+    @(46,0750 mm, 344,4250 mm): Pole lutownicze 64 [VCC1_8FT] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(53,5750 mm, 344,4250 mm): Pole lutownicze 49 [VCC1_8FT] z U1 na F.Cu
+    @(55,5000 mm, 351,8500 mm): Pole lutownicze 37 [VCC1_8FT] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(46,0750 mm, 344,4250 mm): Pole lutownicze 64 [VCC1_8FT] z U1 na F.Cu
+    @(37,8875 mm, 335,0000 mm): Pole lutownicze 2 [VCC1_8FT] z L1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(55,5000 mm, 351,8500 mm): Pole lutownicze 37 [VCC1_8FT] z U1 na F.Cu
+    @(69,7000 mm, 352,9600 mm): Pole lutownicze 1 [VCC1_8FT] z C14 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(71,1250 mm, 355,6500 mm): Pole lutownicze 2 [Net-(C14-Pad2)] z C15 na F.Cu
+    @(71,1250 mm, 352,9600 mm): Pole lutownicze 2 [Net-(C14-Pad2)] z C14 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,1200 mm, 365,7600 mm): Pole lutownicze 2 [Net-(C14-Pad2)] z R2 na F.Cu
+    @(71,1250 mm, 355,6500 mm): Pole lutownicze 2 [Net-(C14-Pad2)] z C15 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(61,1250 mm, 364,0000 mm): Pole lutownicze 1 [OSCI_FTDI] z Y1 na F.Cu
+    @(69,7000 mm, 358,3400 mm): Pole lutownicze 1 [OSCI_FTDI] z C16 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 346,8500 mm): Pole lutownicze 2 [OSCI_FTDI] z U1 na F.Cu
+    @(61,1250 mm, 364,0000 mm): Pole lutownicze 1 [OSCI_FTDI] z Y1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(63,3250 mm, 362,4000 mm): Pole lutownicze 3 [OSCO_FTDI] z Y1 na F.Cu
+    @(69,7000 mm, 361,0300 mm): Pole lutownicze 1 [OSCO_FTDI] z C17 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,1500 mm, 347,3500 mm): Pole lutownicze 3 [OSCO_FTDI] z U1 na F.Cu
+    @(63,3250 mm, 362,4000 mm): Pole lutownicze 3 [OSCO_FTDI] z Y1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 293,9750 mm): Pole lutownicze 1 [IOL_1A] z IC2 na F.Cu
+    @(89,2900 mm, 392,7000 mm): Pole lutownicze 1 [IOL_1A] z U36 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 294,4750 mm): Pole lutownicze 2 [IOL_1B] z IC2 na F.Cu
+    @(93,5900 mm, 393,2000 mm): Pole lutownicze 9 [IOL_1B] z U36 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 294,9750 mm): Pole lutownicze 3 [IOL_2A] z IC2 na F.Cu
+    @(93,5900 mm, 392,7000 mm): Pole lutownicze 10 [IOL_2A] z U36 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 295,4750 mm): Pole lutownicze 4 [IOL_2B] z IC2 na F.Cu
+    @(89,2900 mm, 393,2000 mm): Pole lutownicze 2 [IOL_2B] z U36 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 296,9750 mm): Pole lutownicze 7 [IOL_3A] z IC2 na F.Cu
+    @(40,6400 mm, 218,4400 mm): Pole PTH 15 [IOL_3A] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 297,4750 mm): Pole lutownicze 8 [IOL_3B] z IC2 na F.Cu
+    @(39,3700 mm, 218,4400 mm): Pole PTH 13 [IOL_3B] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 297,9750 mm): Pole lutownicze 9 [IOL_4A] z IC2 na F.Cu
+    @(38,1000 mm, 218,4400 mm): Pole PTH 11 [IOL_4A] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 298,4750 mm): Pole lutownicze 10 [IOL_4B] z IC2 na F.Cu
+    @(36,8300 mm, 218,4400 mm): Pole PTH 9 [IOL_4B] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(11,4300 mm, 218,4400 mm): Pole PTH 11 [IOL_5A] na J31
+    @(33,2870 mm, 298,9750 mm): Pole lutownicze 11 [IOL_5A] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 298,9750 mm): Pole lutownicze 11 [IOL_5A] z IC2 na F.Cu
+    @(214,6400 mm, 372,1050 mm): Pole PTH 1 [IOL_5A] na U19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(10,1600 mm, 218,4400 mm): Pole PTH 9 [IOL_5B] na J31
+    @(33,2870 mm, 299,4750 mm): Pole lutownicze 12 [IOL_5B] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 299,4750 mm): Pole lutownicze 12 [IOL_5B] z IC2 na F.Cu
+    @(240,0400 mm, 372,1050 mm): Pole PTH 1 [IOL_5B] na U21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(83,8200 mm, 233,4100 mm): Pole lutownicze 2 [IOL_6A] z D8 na F.Cu
+    @(12,7000 mm, 229,8700 mm): Pole PTH 13 [IOL_6A] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(12,7000 mm, 229,8700 mm): Pole PTH 13 [IOL_6A] na J29
+    @(33,2870 mm, 302,9750 mm): Pole lutownicze 19 [IOL_6A] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(13,9700 mm, 229,8700 mm): Pole PTH 15 [IOL_6B] na J29
+    @(33,2870 mm, 303,4750 mm): Pole lutownicze 20 [IOL_6B] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(99,5075 mm, 233,6800 mm): Pole lutownicze 2 [IOL_6B] z D7 na F.Cu
+    @(13,9700 mm, 229,8700 mm): Pole PTH 15 [IOL_6B] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(15,2400 mm, 229,8700 mm): Pole PTH 17 [IOL_7A] na J29
+    @(33,2870 mm, 303,9750 mm): Pole lutownicze 21 [IOL_7A] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(114,7475 mm, 233,6800 mm): Pole lutownicze 2 [IOL_7A] z D6 na F.Cu
+    @(15,2400 mm, 229,8700 mm): Pole PTH 17 [IOL_7A] na J29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(158,7950 mm, 289,4150 mm): Pole lutownicze 2 [PA9] z U10 na F.Cu
+    @(132,9050 mm, 347,2600 mm): Pole PTH 2 [PA9] na J12
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(132,9050 mm, 347,2600 mm): Pole PTH 2 [PA9] na J12
+    @(198,1200 mm, 354,3300 mm): Pole PTH 5 [PA9] na J9
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(140,9400 mm, 321,2800 mm): Pole PTH 3 [PB_8] na J2
+    @(126,5550 mm, 347,2800 mm): Pole PTH 2 [PB_8] na J11
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(166,0950 mm, 283,7350 mm): Pole lutownicze 6 [PB_8] z U9 na F.Cu
+    @(140,9400 mm, 321,2800 mm): Pole PTH 3 [PB_8] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(198,1200 mm, 331,4700 mm): Pole PTH 1 [PB_8] na J8
+    @(166,0950 mm, 283,7350 mm): Pole lutownicze 6 [PB_8] z U9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(169,6850 mm, 292,9100 mm): Pole lutownicze 2 [PB_9] z R12 na F.Cu
+    @(169,6850 mm, 290,9200 mm): Pole lutownicze 2 [PB_9] z R11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(169,6850 mm, 290,9200 mm): Pole lutownicze 2 [PB_9] z R11 na F.Cu
+    @(166,0950 mm, 285,0050 mm): Pole lutownicze 5 [PB_9] z U9 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(139,6700 mm, 321,2800 mm): Pole PTH 5 [PB_9] na J2
+    @(169,6850 mm, 292,9100 mm): Pole lutownicze 2 [PB_9] z R12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(169,6850 mm, 292,9100 mm): Pole lutownicze 2 [PB_9] z R12 na F.Cu
+    @(198,1200 mm, 332,7400 mm): Pole PTH 2 [PB_9] na J8
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(135,8600 mm, 321,2800 mm): Pole PTH 11 [PA_5] na J2
+    @(125,7400 mm, 380,9900 mm): Pole PTH 1 [PA_5] na U13
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(296,4250 mm, 326,8000 mm): Pole lutownicze 2 [PA_5] z RV2 na F.Cu
+    @(240,0300 mm, 228,6000 mm): Pole PTH 3 [PA_5] na J21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(240,0300 mm, 228,6000 mm): Pole PTH 3 [PA_5] na J21
+    @(135,8600 mm, 321,2800 mm): Pole PTH 11 [PA_5] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(134,5900 mm, 321,2800 mm): Pole PTH 13 [PA_6] na J2
+    @(138,4400 mm, 380,9900 mm): Pole PTH 1 [PA_6] na U14
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(241,3000 mm, 228,6000 mm): Pole PTH 5 [PA_6] na J21
+    @(134,5900 mm, 321,2800 mm): Pole PTH 13 [PA_6] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(133,3200 mm, 321,2800 mm): Pole PTH 15 [PA_7] na J2
+    @(129,5100 mm, 321,2800 mm): Pole PTH 21 [PA_7] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(296,4250 mm, 336,9600 mm): Pole lutownicze 2 [PA_7] z RV1 na F.Cu
+    @(133,3200 mm, 321,2800 mm): Pole PTH 15 [PA_7] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(132,0500 mm, 321,2800 mm): Pole PTH 17 [PB_6] na J2
+    @(284,2275 mm, 238,7175 mm): Pole PTH 2 [PB_6] na SW2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(129,7500 mm, 346,0000 mm): Pole PTH 1 [Net-(J10-Pin_1)] na J10
+    @(271,1900 mm, 289,0700 mm): Pole lutownicze 5 [Net-(J10-Pin_1)] z U11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(128,2400 mm, 321,2800 mm): Pole PTH 23 [PA_8] na J2
+    @(242,5700 mm, 228,6000 mm): Pole PTH 7 [PA_8] na J21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(125,7000 mm, 321,2800 mm): Pole PTH 27 [PB_4] na J2
+    @(284,4800 mm, 271,7800 mm): Pole PTH 2 [PB_4] na SW0
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(124,4300 mm, 321,2800 mm): Pole PTH 29 [PB_5] na J2
+    @(284,4800 mm, 255,4600 mm): Pole PTH 2 [PB_5] na SW1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(277,3075 mm, 271,7800 mm): Pole lutownicze 2 [PB_3] z D16 na F.Cu
+    @(227,3300 mm, 228,6000 mm): Pole PTH 7 [PB_3] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(227,3300 mm, 228,6000 mm): Pole PTH 7 [PB_3] na J22
+    @(123,1600 mm, 321,2800 mm): Pole PTH 31 [PB_3] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(121,8900 mm, 321,2800 mm): Pole PTH 33 [PA_10] na J2
+    @(289,5600 mm, 351,7900 mm): Pole PTH 6 [PA_10] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(120,6200 mm, 321,2800 mm): Pole PTH 35 [PA_2] na J2
+    @(290,8300 mm, 353,0600 mm): Pole PTH 7 [PA_2] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(119,3500 mm, 321,2800 mm): Pole PTH 37 [PA_3] na J2
+    @(290,8300 mm, 351,7900 mm): Pole PTH 8 [PA_3] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(129,7500 mm, 347,2700 mm): Pole PTH 2 [Net-(J10-Pin_2)] na J10
+    @(271,1900 mm, 287,0200 mm): Pole lutownicze 4 [Net-(J10-Pin_2)] z U11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(129,7500 mm, 348,5400 mm): Pole PTH 3 [Net-(J10-Pin_3)] na J10
+    @(270,5400 mm, 287,0200 mm): Pole lutownicze 3 [Net-(J10-Pin_3)] z U11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(129,7500 mm, 349,8100 mm): Pole PTH 4 [Net-(J10-Pin_4)] na J10
+    @(269,8900 mm, 287,0200 mm): Pole lutownicze 2 [Net-(J10-Pin_4)] z U11 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(40,4000 mm, 275,5950 mm): Pole PTH 22 [PE_10] na J13
+    @(113,0000 mm, 321,2800 mm): Pole PTH 47 [PE_10] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(113,0000 mm, 321,2800 mm): Pole PTH 47 [PE_10] na J2
+    @(236,2200 mm, 215,9000 mm): Pole PTH 6 [PE_10] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(37,8600 mm, 275,5950 mm): Pole PTH 26 [PE_12] na J13
+    @(111,7300 mm, 321,2800 mm): Pole PTH 49 [PE_12] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(111,7300 mm, 321,2800 mm): Pole PTH 49 [PE_12] na J2
+    @(238,7600 mm, 215,9000 mm): Pole PTH 10 [PE_12] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(35,3200 mm, 275,5950 mm): Pole PTH 30 [PE_14] na J13
+    @(110,4600 mm, 321,2800 mm): Pole PTH 51 [PE_14] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(110,4600 mm, 321,2800 mm): Pole PTH 51 [PE_14] na J2
+    @(241,3000 mm, 215,9000 mm): Pole PTH 14 [PE_14] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(34,0500 mm, 275,5950 mm): Pole PTH 32 [PE_15] na J13
+    @(109,1900 mm, 321,2800 mm): Pole PTH 53 [PE_15] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(109,1900 mm, 321,2800 mm): Pole PTH 53 [PE_15] na J2
+    @(242,5700 mm, 215,9000 mm): Pole PTH 16 [PE_15] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(36,5900 mm, 275,5950 mm): Pole PTH 28 [PE_13] na J13
+    @(107,9200 mm, 321,2800 mm): Pole PTH 55 [PE_13] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(107,9200 mm, 321,2800 mm): Pole PTH 55 [PE_13] na J2
+    @(240,0300 mm, 215,9000 mm): Pole PTH 12 [PE_13] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(106,6500 mm, 321,2800 mm): Pole PTH 57 [PF_13] na J2
+    @(257,8100 mm, 217,1700 mm): Pole PTH 11 [PF_13] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(105,3800 mm, 321,2800 mm): Pole PTH 59 [PF_12] na J2
+    @(256,5400 mm, 217,1700 mm): Pole PTH 9 [PF_12] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(104,1100 mm, 321,2800 mm): Pole PTH 61 [PG_14] na J2
+    @(259,0800 mm, 217,1700 mm): Pole PTH 13 [PG_14] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(100,3000 mm, 321,2800 mm): Pole PTH 67 [PG_7] na J2
+    @(229,8700 mm, 228,6000 mm): Pole PTH 11 [PG_7] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(126,5550 mm, 348,5500 mm): Pole PTH 3 [PA_9] na J11
+    @(289,5600 mm, 353,0600 mm): Pole PTH 5 [PA_9] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(132,9050 mm, 345,9900 mm): Pole PTH 1 [PB14] na J12
+    @(158,7950 mm, 291,9550 mm): Pole lutownicze 4 [PB14] z U10 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(135,8600 mm, 322,5500 mm): Pole PTH 12 [PA_12] na J2
+    @(151,1400 mm, 380,9900 mm): Pole PTH 1 [PA_12] na U15
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(243,8400 mm, 228,6000 mm): Pole PTH 9 [PA_12] na J21
+    @(135,8600 mm, 322,5500 mm): Pole PTH 12 [PA_12] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(277,3075 mm, 256,5400 mm): Pole lutownicze 2 [PB_2] z D15 na F.Cu
+    @(226,0600 mm, 228,6000 mm): Pole PTH 5 [PB_2] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(226,0600 mm, 228,6000 mm): Pole PTH 5 [PB_2] na J22
+    @(129,5100 mm, 322,5500 mm): Pole PTH 22 [PB_2] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(277,3075 mm, 238,7600 mm): Pole lutownicze 2 [PB_1] z D14 na F.Cu
+    @(224,7900 mm, 228,6000 mm): Pole PTH 3 [PB_1] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(224,7900 mm, 228,6000 mm): Pole PTH 3 [PB_1] na J22
+    @(128,2400 mm, 322,5500 mm): Pole PTH 24 [PB_1] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(126,9700 mm, 322,5500 mm): Pole PTH 26 [PB_15] na J2
+    @(288,2900 mm, 351,7900 mm): Pole PTH 4 [PB_15] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(125,7000 mm, 322,5500 mm): Pole PTH 28 [PB_14] na J2
+    @(288,2900 mm, 353,0600 mm): Pole PTH 3 [PB_14] na J24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,7750 mm, 334,8100 mm): Pole lutownicze 3 [AGND] z RV1 na F.Cu
+    @(287,7750 mm, 324,6500 mm): Pole lutownicze 3 [AGND] z RV2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,7750 mm, 324,6500 mm): Pole lutownicze 3 [AGND] z RV2 na F.Cu
+    @(287,7750 mm, 312,8100 mm): Pole lutownicze 3 [AGND] z RV3 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,7750 mm, 324,6500 mm): Pole lutownicze 3 [AGND] z RV2 na F.Cu
+    @(123,1600 mm, 322,5500 mm): Pole PTH 32 [AGND] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(284,4800 mm, 391,1600 mm): Pole PTH 1 [Ext_PWR] na J14
+    @(288,6300 mm, 391,1600 mm): Pole PTH 1 [Ext_PWR] na J15
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(288,6300 mm, 391,1600 mm): Pole PTH 1 [Ext_PWR] na J15
+    @(297,1800 mm, 391,1600 mm): Pole PTH 1 [Ext_PWR] na J16
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(184,1600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U17
+    @(184,1600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U35
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(171,4600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U34
+    @(171,4600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U16
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(158,7600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U33
+    @(158,7600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U15
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(133,3600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U31
+    @(133,3600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U13
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(146,0600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U14
+    @(146,0600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U32
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(120,6600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U30
+    @(120,6600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(209,5600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U18
+    @(209,5600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(222,2600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U25
+    @(222,2600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(247,6600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U27
+    @(247,6600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U21
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(273,0600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U29
+    @(273,0600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(234,9600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U26
+    @(234,9600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(260,3600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U28
+    @(260,3600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(222,2600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U19
+    @(209,5600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U18
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(133,3600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U13
+    @(146,0600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U14
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(234,9600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U20
+    @(222,2600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(234,9600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U26
+    @(247,6600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U27
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(133,3600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U13
+    @(120,6600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(171,4600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U16
+    @(184,1600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U17
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(247,6600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U27
+    @(260,3600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(158,7600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U15
+    @(171,4600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U16
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(260,3600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U28
+    @(273,0600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(146,0600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U14
+    @(158,7600 mm, 380,9900 mm): Pole PTH 4 [Ext_PWR] na U15
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(273,0600 mm, 381,0000 mm): Pole PTH 4 [Ext_PWR] na U29
+    @(284,4800 mm, 391,1600 mm): Pole PTH 1 [Ext_PWR] na J14
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(209,5600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U18
+    @(184,1600 mm, 372,1050 mm): Pole PTH 4 [Ext_PWR] na U35
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(42,9400 mm, 275,5950 mm): Pole PTH 18 [PE_8] na J13
+    @(118,0800 mm, 322,5500 mm): Pole PTH 40 [PE_8] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(118,0800 mm, 322,5500 mm): Pole PTH 40 [PE_8] na J2
+    @(233,6800 mm, 215,9000 mm): Pole PTH 2 [PE_8] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(116,8100 mm, 322,5500 mm): Pole PTH 42 [PF_10] na J2
+    @(254,0000 mm, 217,1700 mm): Pole PTH 5 [PF_10] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,2100 mm, 275,5950 mm): Pole PTH 16 [PE_7] na J13
+    @(115,5400 mm, 322,5500 mm): Pole PTH 44 [PE_7] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(115,5400 mm, 322,5500 mm): Pole PTH 44 [PE_7] na J2
+    @(242,5700 mm, 217,1700 mm): Pole PTH 15 [PE_7] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(291,2500 mm, 402,8500 mm): Pole PTH 2 [Net-(J16-Pin_2)] na J30
+    @(297,1800 mm, 392,4300 mm): Pole PTH 2 [Net-(J16-Pin_2)] na J16
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(232,4100 mm, 407,6700 mm): Pole PTH 16 [Ext_GND] na J20
+    @(233,6800 mm, 407,6700 mm): Pole PTH 14 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(152,4000 mm, 407,6700 mm): Pole PTH 10 [Ext_GND] na J19
+    @(153,6700 mm, 407,6700 mm): Pole PTH 8 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(237,4900 mm, 407,6700 mm): Pole PTH 8 [Ext_GND] na J20
+    @(238,7600 mm, 407,6700 mm): Pole PTH 6 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(143,5100 mm, 407,6700 mm): Pole PTH 24 [Ext_GND] na J19
+    @(144,7800 mm, 407,6700 mm): Pole PTH 22 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(238,7600 mm, 407,6700 mm): Pole PTH 6 [Ext_GND] na J20
+    @(240,0300 mm, 407,6700 mm): Pole PTH 4 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(227,3300 mm, 407,6700 mm): Pole PTH 24 [Ext_GND] na J20
+    @(228,6000 mm, 407,6700 mm): Pole PTH 22 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(154,9400 mm, 407,6700 mm): Pole PTH 6 [Ext_GND] na J19
+    @(156,2100 mm, 407,6700 mm): Pole PTH 4 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(240,0300 mm, 407,6700 mm): Pole PTH 4 [Ext_GND] na J20
+    @(241,3000 mm, 407,6700 mm): Pole PTH 2 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(228,6000 mm, 407,6700 mm): Pole PTH 22 [Ext_GND] na J20
+    @(229,8700 mm, 407,6700 mm): Pole PTH 20 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(156,2100 mm, 407,6700 mm): Pole PTH 4 [Ext_GND] na J19
+    @(157,4800 mm, 407,6700 mm): Pole PTH 2 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(229,8700 mm, 407,6700 mm): Pole PTH 20 [Ext_GND] na J20
+    @(231,1400 mm, 407,6700 mm): Pole PTH 18 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(144,7800 mm, 407,6700 mm): Pole PTH 22 [Ext_GND] na J19
+    @(146,0500 mm, 407,6700 mm): Pole PTH 20 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(146,0500 mm, 407,6700 mm): Pole PTH 20 [Ext_GND] na J19
+    @(147,3200 mm, 407,6700 mm): Pole PTH 18 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(231,1400 mm, 407,6700 mm): Pole PTH 18 [Ext_GND] na J20
+    @(232,4100 mm, 407,6700 mm): Pole PTH 16 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(147,3200 mm, 407,6700 mm): Pole PTH 18 [Ext_GND] na J19
+    @(148,5900 mm, 407,6700 mm): Pole PTH 16 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(148,5900 mm, 407,6700 mm): Pole PTH 16 [Ext_GND] na J19
+    @(149,8600 mm, 407,6700 mm): Pole PTH 14 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(153,6700 mm, 407,6700 mm): Pole PTH 8 [Ext_GND] na J19
+    @(154,9400 mm, 407,6700 mm): Pole PTH 6 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(149,8600 mm, 407,6700 mm): Pole PTH 14 [Ext_GND] na J19
+    @(151,1300 mm, 407,6700 mm): Pole PTH 12 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(233,6800 mm, 407,6700 mm): Pole PTH 14 [Ext_GND] na J20
+    @(234,9500 mm, 407,6700 mm): Pole PTH 12 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(151,1300 mm, 407,6700 mm): Pole PTH 12 [Ext_GND] na J19
+    @(152,4000 mm, 407,6700 mm): Pole PTH 10 [Ext_GND] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(234,9500 mm, 407,6700 mm): Pole PTH 12 [Ext_GND] na J20
+    @(236,2200 mm, 407,6700 mm): Pole PTH 10 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(236,2200 mm, 407,6700 mm): Pole PTH 10 [Ext_GND] na J20
+    @(237,4900 mm, 407,6700 mm): Pole PTH 8 [Ext_GND] na J20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(292,1000 mm, 378,4600 mm): Pole PTH 1 [Ext_GND] na J18
+    @(287,9500 mm, 378,4600 mm): Pole PTH 1 [Ext_GND] na J17
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(142,2400 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R28 na F.Cu
+    @(132,0800 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R29 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(206,7600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R43 na F.Cu
+    @(219,4600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R49 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(142,2400 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R28 na F.Cu
+    @(154,9400 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R27 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(219,4600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R39 na F.Cu
+    @(206,7600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R38 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(129,5400 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R35 na F.Cu
+    @(116,8400 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R26 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(142,2400 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R34 na F.Cu
+    @(129,5400 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R35 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(232,1600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R40 na F.Cu
+    @(219,4600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R39 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(181,3600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R36 na F.Cu
+    @(168,6600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R37 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(257,5600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R46 na F.Cu
+    @(270,2600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R45 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(219,4600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R49 na F.Cu
+    @(232,1600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R48 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(244,8600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R47 na F.Cu
+    @(257,5600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R46 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(181,3600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R52 na F.Cu
+    @(168,6600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R51 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(168,6600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R51 na F.Cu
+    @(155,9600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R50 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(244,8600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R47 na F.Cu
+    @(232,1600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R48 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(244,8600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R41 na F.Cu
+    @(232,1600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R40 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(244,8600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R41 na F.Cu
+    @(257,5600 mm, 366,1000 mm): Pole lutownicze 2 [Ext_GND] z R42 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(257,5600 mm, 366,1000 mm): Pole lutownicze 2 [Ext_GND] z R42 na F.Cu
+    @(270,2600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R44 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(168,6600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R37 na F.Cu
+    @(154,9400 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R27 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(155,9600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R50 na F.Cu
+    @(142,2400 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R34 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(132,0800 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R29 na F.Cu
+    @(116,8400 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R13 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(154,9400 mm, 407,6700 mm): Pole PTH 6 [Ext_GND] na J19
+    @(154,9400 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R27 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(232,4100 mm, 407,6700 mm): Pole PTH 16 [Ext_GND] na J20
+    @(232,1600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R48 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,9500 mm, 378,4600 mm): Pole PTH 1 [Ext_GND] na J17
+    @(270,2600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R45 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,9500 mm, 378,4600 mm): Pole PTH 1 [Ext_GND] na J17
+    @(270,2600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R44 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(181,3600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R36 na F.Cu
+    @(181,3600 mm, 365,7600 mm): Pole lutownicze 2 [Ext_GND] z R52 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(181,3600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R36 na F.Cu
+    @(206,7600 mm, 388,6200 mm): Pole lutownicze 2 [Ext_GND] z R43 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(111,7300 mm, 322,5500 mm): Pole PTH 50 [PF_14] na J2
+    @(296,4250 mm, 314,9600 mm): Pole lutownicze 2 [PF_14] z RV3 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(41,6700 mm, 275,5950 mm): Pole PTH 20 [PE_9] na J13
+    @(110,4600 mm, 322,5500 mm): Pole PTH 52 [PE_9] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(110,4600 mm, 322,5500 mm): Pole PTH 52 [PE_9] na J2
+    @(234,9500 mm, 215,9000 mm): Pole PTH 4 [PE_9] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,1300 mm, 275,5950 mm): Pole PTH 24 [PE_11] na J13
+    @(107,9200 mm, 322,5500 mm): Pole PTH 56 [PE_11] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(107,9200 mm, 322,5500 mm): Pole PTH 56 [PE_11] na J2
+    @(237,4900 mm, 215,9000 mm): Pole PTH 8 [PE_11] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(105,3800 mm, 322,5500 mm): Pole PTH 60 [PF_15] na J2
+    @(260,3500 mm, 217,1700 mm): Pole PTH 15 [PF_15] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(104,1100 mm, 322,5500 mm): Pole PTH 62 [PF_11] na J2
+    @(255,2700 mm, 217,1700 mm): Pole PTH 7 [PF_11] na J25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(53,1000 mm, 275,5950 mm): Pole PTH 2 [PE_0] na J13
+    @(102,8400 mm, 322,5500 mm): Pole PTH 64 [PE_0] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(102,8400 mm, 322,5500 mm): Pole PTH 64 [PE_0] na J2
+    @(233,6800 mm, 217,1700 mm): Pole PTH 1 [PE_0] na J26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(287,7500 mm, 402,8500 mm): Pole PTH 1 [Net-(J18-Pin_2)] na J30
+    @(292,1000 mm, 379,7300 mm): Pole PTH 2 [Net-(J18-Pin_2)] na J18
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(99,0300 mm, 322,5500 mm): Pole PTH 70 [PG_6] na J2
+    @(228,6000 mm, 228,6000 mm): Pole PTH 9 [PG_6] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(16,5100 mm, 229,8700 mm): Pole PTH 19 [IOL_7B] na J29
+    @(33,2870 mm, 304,4750 mm): Pole lutownicze 22 [IOL_7B] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 304,4750 mm): Pole lutownicze 22 [IOL_7B] z IC2 na F.Cu
+    @(265,4400 mm, 372,1050 mm): Pole PTH 1 [IOL_7B] na U23
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(17,7800 mm, 229,8700 mm): Pole PTH 21 [IOL_8A] na J29
+    @(33,2870 mm, 304,9750 mm): Pole lutownicze 23 [IOL_8A] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 304,9750 mm): Pole lutownicze 23 [IOL_8A] z IC2 na F.Cu
+    @(201,9400 mm, 372,1050 mm): Pole PTH 1 [IOL_8A] na U18
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(19,0500 mm, 229,8700 mm): Pole PTH 23 [IOL_8B] na J29
+    @(33,2870 mm, 305,4750 mm): Pole lutownicze 24 [IOL_8B] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 305,4750 mm): Pole lutownicze 24 [IOL_8B] z IC2 na F.Cu
+    @(227,3400 mm, 372,1050 mm): Pole PTH 1 [IOL_8B] na U20
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(20,3200 mm, 229,8700 mm): Pole PTH 25 [IOL_9A] na J29
+    @(33,2870 mm, 305,9750 mm): Pole lutownicze 25 [IOL_9A] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 305,9750 mm): Pole lutownicze 25 [IOL_9A] z IC2 na F.Cu
+    @(252,7400 mm, 372,1050 mm): Pole PTH 1 [IOL_9A] na U22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(21,5900 mm, 229,8700 mm): Pole PTH 27 [IOL_9B] na J29
+    @(33,2870 mm, 306,4750 mm): Pole lutownicze 26 [IOL_9B] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 306,4750 mm): Pole lutownicze 26 [IOL_9B] z IC2 na F.Cu
+    @(214,6400 mm, 381,0000 mm): Pole PTH 1 [IOL_9B] na U25
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(22,8600 mm, 229,8700 mm): Pole PTH 29 [IOL_10A] na J29
+    @(33,2870 mm, 307,4750 mm): Pole lutownicze 28 [IOL_10A] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 307,4750 mm): Pole lutownicze 28 [IOL_10A] z IC2 na F.Cu
+    @(240,0400 mm, 381,0000 mm): Pole PTH 1 [IOL_10A] na U27
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(24,1300 mm, 229,8700 mm): Pole PTH 31 [IOL_10B] na J29
+    @(33,2870 mm, 307,9750 mm): Pole lutownicze 29 [IOL_10B] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 307,9750 mm): Pole lutownicze 29 [IOL_10B] z IC2 na F.Cu
+    @(265,4400 mm, 381,0000 mm): Pole PTH 1 [IOL_10B] na U29
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(120,6600 mm, 383,5300 mm): Pole PTH 3 [opt_stm1] na U2
+    @(115,8200 mm, 388,6200 mm): Pole lutownicze 1 [opt_stm1] z R13 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(157,4800 mm, 406,4000 mm): Pole PTH 1 [opt_stm1] na J19
+    @(120,6600 mm, 383,5300 mm): Pole PTH 3 [opt_stm1] na U2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(35,5600 mm, 218,4400 mm): Pole PTH 7 [IOL_11A] na J28
+    @(8,8900 mm, 218,4400 mm): Pole PTH 7 [IOL_11A] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 308,9750 mm): Pole lutownicze 31 [IOL_11A] z IC2 na F.Cu
+    @(35,5600 mm, 218,4400 mm): Pole PTH 7 [IOL_11A] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 308,9750 mm): Pole lutownicze 31 [IOL_11A] z IC2 na F.Cu
+    @(201,9400 mm, 381,0000 mm): Pole PTH 1 [IOL_11A] na U24
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(34,2900 mm, 218,4400 mm): Pole PTH 5 [IOL_11B] na J28
+    @(7,6200 mm, 218,4400 mm): Pole PTH 5 [IOL_11B] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 309,4750 mm): Pole lutownicze 32 [IOL_11B] z IC2 na F.Cu
+    @(34,2900 mm, 218,4400 mm): Pole PTH 5 [IOL_11B] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 309,4750 mm): Pole lutownicze 32 [IOL_11B] z IC2 na F.Cu
+    @(227,3400 mm, 381,0000 mm): Pole PTH 1 [IOL_11B] na U26
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,0200 mm, 218,4400 mm): Pole PTH 3 [IOL_12A] na J28
+    @(6,3500 mm, 218,4400 mm): Pole PTH 3 [IOL_12A] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 309,9750 mm): Pole lutownicze 33 [IOL_12A] z IC2 na F.Cu
+    @(33,0200 mm, 218,4400 mm): Pole PTH 3 [IOL_12A] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 309,9750 mm): Pole lutownicze 33 [IOL_12A] z IC2 na F.Cu
+    @(252,7400 mm, 381,0000 mm): Pole PTH 1 [IOL_12A] na U28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(31,7500 mm, 218,4400 mm): Pole PTH 1 [IOL_12B] na J28
+    @(5,0800 mm, 218,4400 mm): Pole PTH 1 [IOL_12B] na J31
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(33,2870 mm, 310,4750 mm): Pole lutownicze 34 [IOL_12B] z IC2 na F.Cu
+    @(31,7500 mm, 218,4400 mm): Pole PTH 1 [IOL_12B] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(16,8900 mm, 364,8450 mm): Pole PTH 2 [GNDPLL] na Y2
+    @(33,2870 mm, 310,9750 mm): Pole lutownicze 35 [GNDPLL] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(11,8900 mm, 364,8450 mm): Pole PTH 1 [VCCPLL] na Y2
+    @(33,2870 mm, 311,4750 mm): Pole lutownicze 36 [VCCPLL] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(35,2750 mm, 313,4630 mm): Pole lutownicze 37 [IOB_24] z IC2 na F.Cu
+    @(119,3800 mm, 260,3500 mm): Pole PTH 38 [IOB_24] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(35,7750 mm, 313,4630 mm): Pole lutownicze 38 [IOB_25] z IC2 na F.Cu
+    @(120,6500 mm, 260,3500 mm): Pole PTH 36 [IOB_25] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(36,2750 mm, 313,4630 mm): Pole lutownicze 39 [IOB_26] z IC2 na F.Cu
+    @(120,6500 mm, 259,0800 mm): Pole PTH 35 [IOB_26] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(37,2750 mm, 313,4630 mm): Pole lutownicze 41 [IOB_27] z IC2 na F.Cu
+    @(119,3800 mm, 259,0800 mm): Pole PTH 37 [IOB_27] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(37,7750 mm, 313,4630 mm): Pole lutownicze 42 [IOB_28] z IC2 na F.Cu
+    @(121,8900 mm, 322,5500 mm): Pole PTH 34 [IOB_28] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(38,2750 mm, 313,4630 mm): Pole lutownicze 43 [IOB_29] z IC2 na F.Cu
+    @(139,6700 mm, 322,5500 mm): Pole PTH 6 [IOB_29] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(38,7750 mm, 313,4630 mm): Pole lutownicze 44 [IOB_30] z IC2 na F.Cu
+    @(140,9400 mm, 322,5500 mm): Pole PTH 4 [IOB_30] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(39,2750 mm, 313,4630 mm): Pole lutownicze 45 [IOB_31] z IC2 na F.Cu
+    @(130,7800 mm, 321,2800 mm): Pole PTH 19 [IOB_31] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(115,8200 mm, 365,7600 mm): Pole lutownicze 1 [opt_stm2] z R26 na F.Cu
+    @(133,3600 mm, 383,5300 mm): Pole PTH 3 [opt_stm2] na U13
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(133,3600 mm, 383,5300 mm): Pole PTH 3 [opt_stm2] na U13
+    @(156,2100 mm, 406,4000 mm): Pole PTH 3 [opt_stm2] na J19
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(40,2750 mm, 313,4630 mm): Pole lutownicze 47 [IOB_32] z IC2 na F.Cu
+    @(142,2100 mm, 322,5500 mm): Pole PTH 2 [IOB_32] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(40,7750 mm, 313,4630 mm): Pole lutownicze 48 [IOB_33] z IC2 na F.Cu
+    @(142,2100 mm, 321,2800 mm): Pole PTH 1 [IOB_33] na J2
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(41,2750 mm, 313,4630 mm): Pole lutownicze 49 [IOB_35] z IC2 na F.Cu
+    @(142,2400 mm, 259,0800 mm): Pole PTH 1 [IOB_35] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(41,7750 mm, 313,4630 mm): Pole lutownicze 50 [IOB_36] z IC2 na F.Cu
+    @(142,2400 mm, 260,3500 mm): Pole PTH 2 [IOB_36] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(42,7750 mm, 313,4630 mm): Pole lutownicze 52 [IOB_34] z IC2 na F.Cu
+    @(140,9700 mm, 259,0800 mm): Pole PTH 3 [IOB_34] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(44,7750 mm, 313,4630 mm): Pole lutownicze 56 [IOB_37] z IC2 na F.Cu
+    @(128,2700 mm, 259,0800 mm): Pole PTH 23 [IOB_37] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(153,9200 mm, 388,6200 mm): Pole lutownicze 1 [opt_stm3] z R27 na F.Cu
+    @(146,0600 mm, 383,5300 mm): Pole PTH 3 [opt_stm3] na U14
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(154,9400 mm, 406,4000 mm): Pole PTH 5 [opt_stm3] na J19
+    @(153,9200 mm, 388,6200 mm): Pole lutownicze 1 [opt_stm3] z R27 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(45,7750 mm, 313,4630 mm): Pole lutownicze 58 [IOB_38] z IC2 na F.Cu
+    @(127,0000 mm, 259,0800 mm): Pole PTH 25 [IOB_38] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(46,7750 mm, 313,4630 mm): Pole lutownicze 60 [IOB_39] z IC2 na F.Cu
+    @(125,7300 mm, 259,0800 mm): Pole PTH 27 [IOB_39] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(102,8700 mm, 259,0800 mm): Pole PTH 63 [IOB_40] na J1
+    @(43,1800 mm, 218,4400 mm): Pole PTH 19 [IOB_40] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(47,2750 mm, 313,4630 mm): Pole lutownicze 61 [IOB_40] z IC2 na F.Cu
+    @(102,8700 mm, 259,0800 mm): Pole PTH 63 [IOB_40] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(102,8700 mm, 259,0800 mm): Pole PTH 63 [IOB_40] na J1
+    @(232,4100 mm, 228,6000 mm): Pole PTH 15 [IOB_40] na J22
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(101,6000 mm, 260,3500 mm): Pole PTH 66 [IOB_41] na J1
+    @(41,9100 mm, 218,4400 mm): Pole PTH 17 [IOB_41] na J28
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(47,7750 mm, 313,4630 mm): Pole lutownicze 62 [IOB_41] z IC2 na F.Cu
+    @(101,6000 mm, 260,3500 mm): Pole PTH 66 [IOB_41] na J1
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(48,2750 mm, 313,4630 mm): Pole lutownicze 63 [IOB_42] z IC2 na F.Cu
+    @(86,7500 mm, 342,4000 mm): Pole lutownicze 2 [IOB_42] z U12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(48,7750 mm, 313,4630 mm): Pole lutownicze 64 [IOB_43] z IC2 na F.Cu
+    @(86,7500 mm, 341,9000 mm): Pole lutownicze 1 [IOB_43] z U12 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(38,1000 mm, 353,0600 mm): Pole lutownicze 1 [IOB_44] z R8 na F.Cu
+    @(46,5750 mm, 355,7750 mm): Pole lutownicze 18 [IOB_44] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(50,2750 mm, 313,4630 mm): Pole lutownicze 67 [IOB_44] z IC2 na F.Cu
+    @(38,1000 mm, 353,0600 mm): Pole lutownicze 1 [IOB_44] z R8 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(50,2750 mm, 313,4630 mm): Pole lutownicze 67 [IOB_44] z IC2 na F.Cu
+    @(5,8500 mm, 314,2500 mm): Pole PTH 2 [IOB_44] na J4
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(38,1000 mm, 358,1400 mm): Pole lutownicze 1 [IOB_45] z R9 na F.Cu
+    @(46,0750 mm, 355,7750 mm): Pole lutownicze 17 [IOB_45] z U1 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(46,0750 mm, 355,7750 mm): Pole lutownicze 17 [IOB_45] z U1 na F.Cu
+    @(50,7750 mm, 313,4630 mm): Pole lutownicze 68 [IOB_45] z IC2 na F.Cu
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; 
+    @(50,7750 mm, 313,4630 mm): Pole lutownicze 68 [IOB_45] z IC2 na F.Cu
+    @(5,8500 mm, 315,5200 mm): Pole PTH 3 [IOB_45] na J4
+
+** Found 0 Footprint errors **
+
+** End of Report **
