@@ -1,0 +1,9 @@
+Manufacturer=Lattice Semiconductor
+PartNumber=LCMXO2-1200ZE-1TG144C
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=144
+Version=1.1
+Released=2022-03-17 13:28:11
+Downloaded=2023-04-18 17:32:19
+3D=Y
