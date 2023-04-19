@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CB3LV_3C_50M0000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CTS", "CB3LV-3C-50M0000" (!) = "", "CB3LV3C50M0000", "Other", "774-CB3LV-3C-50M0", "https://www.mouser.co.uk/ProductDetail/CTS-Electronic-Components/CB3LV-3C-50M0000?qs=HL%252BYNjdyZ0uT6%252BfdJ%252BqvaA%3D%3D", "Oscillator XO 50MHz +/-50ppm 50pF HCMOS/TTL 55% 3.3V 4-Pin SMD T/R", "", "1.8 mm"
+END_PART
+
+END.

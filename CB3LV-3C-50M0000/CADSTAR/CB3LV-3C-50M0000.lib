@@ -1,0 +1,16 @@
+.CB3LV-3C-50M0000 :1 ;Oscillator XO 50MHz +/-50ppm 50pF HCMOS/TTL 55% 3.3V 4-Pin SMD T/R
+CB3LV3C50M0000
+*STM Y
+*NGS
+*PLB 1="EOH" 2="GND" 3="OUTPUT" 4="VCC"
+*MXP 4
+*DFN CB3LV-3C-50M0000
+~!Mouser Part Number (774-CB3LV-3C-50M0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CTS-Electronic-Components/CB3LV-3C-50M0000?qs=HL%252BYNjdyZ0uT6%252BfdJ%252BqvaA%3D%3D)
+~!Manufacturer_Name (CTS)
+~!Manufacturer_Part_Number (CB3LV-3C-50M0000)
+~!Link Datasheet (-)
+~!Height (1.8mm)
+~!3D_Model (CB3LV-3C-50M0000)
+CB3LV-3C-50M0000
+1.1!U 2.1!U 3.1!U 4.1!U 
