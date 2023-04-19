@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Lattice_FPGA")(type "KiCad")(uri "${KIPRJMOD}/Lattice_FPGA.kicad_sym")(options "")(descr ""))
-  (lib (name "CB3LV-3C-50M0000")(type "KiCad")(uri "C:/Users/macie/Desktop/Studia/KiCad_1/SimpleLatticeBoard/CB3LV-3C-50M0000/KiCad/CB3LV-3C-50M0000.kicad_sym")(options "")(descr ""))
-)

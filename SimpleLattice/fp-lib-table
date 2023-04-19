@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "LCMXo2_prg")(type "Legacy")(uri "C:/Users/macie/Desktop/Studia/KiCad_1/SimpleLatticeBoard/LCMXO2-1200ZE-1TG144C/KiCad/LCMXO2-1200ZE-1TG144C.mod")(options "u")(descr "u"))
-  (lib (name "CLK")(type "Legacy")(uri "C:/Users/macie/Desktop/Studia/KiCad_1/SimpleLatticeBoard/CB3LV-3C-50M0000/KiCad/CB3LV-3C-50M0000.mod")(options "krzem")(descr "CLK"))
-)
