@@ -1026,7 +1026,7 @@
     (property "Value" "LD1117S50TR_SOT223" (at 106.68 51.435 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (at 106.68 49.53 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical" (at 106.68 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf" (at 109.22 60.96 0)
