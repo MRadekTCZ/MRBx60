@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LCMXO2-1200ZE-1TG144C
+D LATTICE SEMICONDUCTOR - LCMXO2-1200ZE-1TG144C - CPLD, MachXO2 Series, FLASH, 1200, 108 I/O's, TQFP, 144 Pins, 104 MHz
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA19/41708.pdf
+$ENDCMP
+#
+#End Doc Library
