@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "ICE40HX1K-TQ144")(type "Legacy")(uri "C:/Users/macie/Desktop/Studia/KiCad_1/KiCad/ICE40HX1K-TQ144.mod")(options "")(descr "fpga_latticedwa"))
-)
