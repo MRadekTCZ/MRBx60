@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CB3LV-3C-50M0000
+D Oscillator XO 50MHz +/-50ppm 50pF HCMOS/TTL 55% 3.3V 4-Pin SMD T/R
+K
+F 
+$ENDCMP
+#
+#End Doc Library
